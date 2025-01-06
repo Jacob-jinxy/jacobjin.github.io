@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://jacobjin-github-io.vercel.app/"
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -51,7 +51,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/main/content/"
+    GithubEdit = "https://github.com/Jacob-jinxy/jacobjin.github.io/edit/main/content/"
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
@@ -69,8 +69,8 @@ posts = "/posts/:year/:month/:day/:slug/"
 [params.lang]
 
     [params.lang.author]
-      en = "Your Name"
-      cn = "你的名字"
+      en = "Jacob JIN"
+      cn = "Jacob JIN"
 
     [params.lang.madeWith]
       en = "Made with"
